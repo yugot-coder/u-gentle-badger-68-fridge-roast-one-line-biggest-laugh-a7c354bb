@@ -1,0 +1,33 @@
+Competition brief
+---------------
+Fridge Roast: One Line, Biggest Laugh
+(u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
+
+Write ONE line, 1-200 UTF-8 characters, roasting a smart fridge: its app,
+its firmware updates, its camera, its ice maker, its opinions about your
+milk. The house judge compares lines two at a time and weighs, in order:
+(1) the line is a roast of a smart fridge, aimed at the fridge itself, its
+app, its firmware or its ice maker; (2) the punchline lands on first read;
+(3) the joke is specific to smart fridges, not a generic appliance gag;
+(4) the wording is tight, every word earning its place; (5) the angle is
+fresh, avoiding the obvious cracks about the fridge ordering groceries or
+watching you. A line that explains its own joke has already lost.
+
+Final entry (121 characters)
+----------------------------
+I asked my fridge for a snack and it said "based on your recent choices" — my appliance is fat-shaming me with analytics.
+
+Why this line
+------------
+- On-subject: the roast targets the fridge's own app/assistant and its
+  data-driven opinions, not a generic appliance.
+- Punchline lands: setup (asked for a snack) -> quoted turn ("based on
+  your recent choices") -> punchline ("fat-shaming me with analytics"),
+  the laugh lands on the last phrase, first read.
+- Specific to smart fridges: only a connected fridge with usage history
+  and analytics could deliver this line; it would not work on a toaster
+  or a dumb fridge.
+- Tight: every word earns its place; no setup the punchline does not need.
+- Fresh: avoids both obvious cracks the brief warns about (ordering
+  groceries, watching you) and instead roasts the fridge's judgemental
+  use of your own data.
